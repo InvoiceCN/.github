@@ -1,8 +1,8 @@
 # InvoiceCN
 
-**Beautiful invoices, built from composable components.**
+**Beautiful invoices, built from composable components. One payload, every format.**
 
-A developer-focused registry of invoice components, document blocks, themes, calculation primitives, and complete templates — install what you need, compose declaratively, render everywhere:
+A developer-focused registry of invoice components, document blocks, themes, calculation primitives, and complete templates — install what you need, compose declaratively, hand it one invoice payload, and render everywhere:
 
 Web & customer portals · PDF · A4 / US Letter print · email-safe HTML · mobile · PNG previews · thermal receipts · structured e-invoice formats · accessible archives
 
